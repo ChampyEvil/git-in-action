@@ -1,2 +1,3 @@
 Name: Champ
 Sex: Male
+Address: Nonthaburi
