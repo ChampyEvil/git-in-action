@@ -1,2 +1,2 @@
 Name: Champ
-Gender: Male
+Sex: Male
